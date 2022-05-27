@@ -1,0 +1,102 @@
+        <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>MHM</title>
+        <link rel="stylesheet" href="css/Registration form.css">
+        <meta charset="UTF-8">
+    </head>
+    <body>
+                          <!-- header section strats -->
+                          <header class="header_section">
+                            <div class="container">
+                               <nav class="navbar ">
+                                  <a class="navbar-brand" href="home.html"><img width="250" src="images/logo.png" alt="#" /></a>
+                               </nav>
+                            </div>
+                         </header>
+                         <!-- end header section -->      
+        
+            <div class="content">
+                <form action="html.html" method="post">
+                    <h1 class="header" id="h01">Register</h1>
+                    <h3 class="header4" id="h44">It's quick and easy.</h3>
+                    
+                    <div class="first_name">
+                        <input type="text" id="uname"  placeholder="Enter First Name" required
+                        pattern="[a-zA-Z-_]{4,16}$">
+
+                        <div id="f_message">
+                        <h4>First Name must contain only</h4>
+                        <p id="f_letter" class="invalid">A <b>lowercase</b> letter</p>
+                        <p id="f_capital" class="invalid">A <b>Uppercase</b> letter</p>
+                        </div>
+                    </div>
+
+                    <div class="last_name">
+                        <input type="text" id="unamel" placeholder="Enter Last Name" required
+                        pattern="[a-zA-Z-_]{4,16}$">
+
+                        <div id="l_message">
+                        <h4>Last Name must contain only</h4>
+                        <p id="l_letter" class="invalid">A <b>lowercase</b> letter</p>
+                        <p id="l_capital" class="invalid">A <b>Uppercase</b> letter</p>
+                        </div>
+                    </div>
+
+                    <div class="email">
+                        <input type="email" id="email" placeholder="Enter Email" required
+                        pattern="[a-z0-9._%&-]+@[a-z.-]+\.[a-z]{3,6}$">
+
+                        <div id="e_message">
+                        <h4>email must be only like this :</h4>
+                        <p id="e_letter" class="invalid">admin156<b>@domain</b>.com</p>
+                        </div>
+                    </div>
+                    
+                    <div class="psw">
+                        <input type="password" name="psw"  id="psw" placeholder="Enter Password" required
+                        pattern="[a-zA-Z-0-9_-%-&]{8,12}$">
+                        
+                        <div id="message">
+                        <h4>Password must contain only this </h4>
+                        <p id="letter" class="invalid">A <b>Lowercase</b> letter</p>
+                        <p id="capital" class="invalid">A <b>Uppercase</b> letter</p>
+                        <p id="number" class="invalid">A <b>Number</b></p>
+                        <p id="length" class="invalid">Minimum <b>8 Characters</b></p>
+                        <p id="special" class="invalid">A <b>Special</b> Characters </p>
+                        </div>
+                    </div>
+
+                    <div class="bith_of_date">
+                        <input type="date" placeholder="Input Birth of Date" required>
+                    </div>
+
+                    <div class="gender" id="g_ender">
+                        <label for="Gender" >Gender</label>
+                        <input type="radio" name="radioGender"/>Male
+                        <input type="radio" name="radioGender"/>Female
+                    </div>
+
+                    <div class="terms">
+                        By click Register, you agree to our
+                        <a href="Terms.html" target="_blank">Terms & Policy</a><br>
+                        <label for="I agreed to terms "><b>I agreed to terms</b></label>
+                        <input type="checkbox" name="agree" required>
+                    </div>
+
+                    
+                    <div class="login">
+                        <input type="submit" id="Sign_Up" value="Register">
+                    </div>
+                    
+                    
+                    <div class="Sign_In" id="s_ign">Already have an account? 
+                <a href="Login Form.html">Sign in</a> </div>
+                </form>
+            </div>
+
+           
+            <script src="js/Registation form.js"></script>
+            
+    </body>
+</html>

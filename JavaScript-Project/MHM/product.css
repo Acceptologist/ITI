@@ -1,0 +1,151 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.inner_page_head {
+  background-color: rgb(250, 140, 250);
+  text-align: center;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  width: 100%;
+  border-radius: 20%;
+}
+.heading_container {
+  text-align: center;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 50px;
+  margin: 5px;
+  width: 100%;
+}
+.getdata {
+  height: 50px;
+  width: 100px;
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 20%;
+  /* background-color: rgb(250, 140, 250); */
+}
+.getdata:hover {
+  background-color: royalblue;
+}
+.row {
+  display: grid;
+  /* background-color: hotpink; */
+
+  grid-template-columns: 1fr 1fr 1fr;
+}
+@media (max-width: 700px) {
+  .row {
+    display: flex;
+    /* background-color:green; */
+    flex-direction: column;
+  }
+  .img-box {
+    background-color: rgb(247, 247, 247);
+    height: 100px;
+    margin: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10%;
+  }
+}
+.box {
+  /* background-color: saddlebrown; */
+  box-shadow: 1px 3px 2px gray;
+  height: 300px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.img-box {
+  background-color: rgb(247, 247, 247);
+  height: 200px;
+  margin: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10%;
+}
+img {
+  height: 200px;
+}
+.option_container {
+  margin: 1px;
+  border-radius: 20px;
+  text-align: center;
+  transform: translate(110px, -140px);
+  width: 200px;
+  opacity: 0;
+
+  transition: 1s;
+}
+.img-box:hover + .option_container {
+  opacity: 1;
+}
+.option_container:hover {
+  opacity: 1;
+}
+.options {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.option1 {
+  margin: 2px;
+  background-color: blue;
+  border-radius: 20px;
+  height: 20px;
+  width: 90px;
+  text-decoration: none;
+  border: none;
+  margin: 3px;
+  background-color: crimson;
+  color: white;
+}
+.option1:hover {
+  background-color: white;
+  color: blue;
+  transition: 1s;
+}
+.option2 {
+  margin: 2px;
+  background-color: blue;
+  border-radius: 20px;
+  height: 20px;
+  width: 90px;
+  text-decoration: none;
+  border: none;
+
+  margin: 3px;
+  background-color: crimson;
+  color: white;
+}
+.option2:hover {
+  background-color: white;
+  color: blue;
+  transition: 1s;
+}
+a {
+  margin: 2px;
+  background-color: blue;
+  border-radius: 20px;
+  height: 20px;
+  width: 90px;
+  text-decoration: none;
+}
+.detail-box {
+  /* background-color: tomato; */
+  text-align: center;
+  margin: 2px;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
