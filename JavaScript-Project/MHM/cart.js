@@ -34,7 +34,6 @@ if(CartItems.length==0){
         else{
 
    
-            //.setAttribute(‘id’, ‘Introduction_ 1’)
         TotalPrice+=parseInt(CartItems[i].price.substring(1));
         MainDiv=document.createElement('div');
         MainDiv.classList.add('col-sm-6');
@@ -74,7 +73,7 @@ div=document.createElement('div');
 div.classList.add('btn-box');
 a=document.createElement('a');
 a.classList.add('new-confirm');
-a.setAttribute('id', 'bay')
+a.setAttribute('id', 'buy')
 a.innerText='Checkout';
 a.style.cursor = "pointer";
 div.appendChild(a);
