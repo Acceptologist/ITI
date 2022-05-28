@@ -39,7 +39,7 @@ function checkform(){
                 sessionStorage.setItem('activeuser', JSON.stringify("True"));
                 sessionStorage.setItem('username', JSON.stringify(username));
                 event.preventDefault();
-                window.open("../home.html","_self");
+                window.open("./home.html","_self");
                 return;  
             }else{
                 event.preventDefault();
