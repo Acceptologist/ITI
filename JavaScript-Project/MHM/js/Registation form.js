@@ -166,3 +166,4 @@
                     Gender.classList.toggle("dark-mode");
                     Sign.classList.toggle("dark-mode");
                 }
+               

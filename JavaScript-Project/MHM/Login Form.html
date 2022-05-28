@@ -17,7 +17,7 @@
          <!-- end header section -->      
 
         <div class="content">
-            <form action="html.html">
+            <form >
                 <h1 class="header" id="f1">Login</h1>
                 <h4 class="h4" id="f2"> Welcome Back </h4>
 
@@ -26,11 +26,11 @@
                 </div>
 
                 <div class="email">
-                    <input type="email" id="email" placeholder=" Enter email" required>
+                    <input type="text" name="username" id="name" placeholder=" Enter name" required>
                 </div>
 
                 <div class="psw">
-                    <input type="password" name="psw" id="pass" placeholder="Enter Password" required/>
+                    <input type="password" name="pass" id="pass" placeholder="Enter Password" required/>
                     <!-- pattern="[a-zA-Z-0-9_-%-&]{8,12}$" -->
                 </div>
 
@@ -43,7 +43,7 @@
                 </div>
 
                 <div class="login">
-                    <input type="submit" value="Sign In">
+                    <input type="submit" onclick="return checkform()" value="Sign In">
                     <a href="html.html"></a>
                 </div>
 
@@ -52,7 +52,7 @@
         </div>
 
       
-
+<script src="./js/login.js"></script>
            
     </body>
 </html>

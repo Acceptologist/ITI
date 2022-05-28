@@ -1,39 +1,23 @@
-const navbar = document.getElementById("navbar");
-const navbarToggle = navbar.querySelector(".navbar-toggle");
 
-function openMobileNavbar() {
-  navbar.classList.add("opened");
-  navbarToggle.setAttribute("aria-expanded", "true");
-}
-
-function closeMobileNavbar() {
-  navbar.classList.remove("opened");
-  navbarToggle.setAttribute("aria-expanded", "false");
-}
-
-navbarToggle.addEventListener("click", () => {
-  if (navbar.classList.contains("opened")) {
-    closeMobileNavbar();
-  } else {
-    openMobileNavbar();
-  }
-});
-
-const navbarMenu = navbar.querySelector("#navbar-menu");
-const navbarLinksContainer = navbar.querySelector(".navbar-links");
-
-navbarLinksContainer.addEventListener("click", (clickEvent) => {
-  clickEvent.stopPropagation();
-});
-
-navbarMenu.addEventListener("click", closeMobileNavbar);
-
-document
-  .getElementById("options")
-  .querySelectorAll("input[name='navtype']")
-  .forEach((option) => {
-    option.addEventListener("change", (e) => {
-      const navType = e.target.id.split("-").join(" ");
-      navbarMenu.classList = navType;
-    });
+if (sessionStorage.getItem('activeuser')){
+  var isactive= JSON.parse(sessionStorage.getItem('activeuser'));
+  if(isactive=="True"){
+    li=document.createElement("li");
+    li.innerHTML="<p style='font-size:20px;'>Hi, "+JSON.parse(sessionStorage.getItem('username'))+"</p>";
+    document.getElementsByClassName("navbar-nav")[0].appendChild(li)
+    li=document.createElement("li");
+    a=document.createElement("a");
+    a.innerHTML="Logout"
+    a.style.cursor = "pointer";
+    a.addEventListener('click', function() {
+      sessionStorage.setItem('activeuser', JSON.stringify("False"));
+      window.open("home.html","_self")
   });
+  document.getElementsByClassName("dropdown-menu")[0].removeChild(document.getElementsByClassName("dropdown-menu")[0].lastChild);
+  document.getElementsByClassName("dropdown-menu")[0].removeChild(document.getElementsByClassName("dropdown-menu")[0].lastChild);
+  document.getElementsByClassName("dropdown-menu")[0].removeChild(document.getElementsByClassName("dropdown-menu")[0].lastChild);
+  document.getElementsByClassName("dropdown-menu")[0].removeChild(document.getElementsByClassName("dropdown-menu")[0].lastChild);
+  li.appendChild(a);
+  document.getElementsByClassName("dropdown-menu")[0].appendChild(li)
+  }
+} 

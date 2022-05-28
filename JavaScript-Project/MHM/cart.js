@@ -66,24 +66,62 @@ if(CartItems.length==0){
     } 
     c=0;
 }
-
+}
 document.getElementById('totalprice').innerHTML="<h2>Subtotal (<span class='items-number'>"+CartItems.length+" items</span>): $"+TotalPrice+"</h2>";
 
-/*
- <div class="btn-box">
-               <a href="product.html">
-               View All products
-               </a>
-            </div>
-*/
+//buy button
 div=document.createElement('div');
 div.classList.add('btn-box');
 a=document.createElement('a');
+a.classList.add('new-confirm');
 a.setAttribute('id', 'bay')
-a.innerText='Buy';
-div.appendChild(a)
+a.innerText='Checkout';
+a.style.cursor = "pointer";
+div.appendChild(a);
+
+
+a=document.createElement('a');
+a.setAttribute('id', 'empty-cart')
+a.innerText='Empty Cart';
+a.style.marginLeft="1%"
+a.style.backgroundColor="#FFF"
+a.style.color="#f7444e"
+a.style.cursor = "pointer";
+a.addEventListener('click', function() {
+    sessionStorage.setItem('cart', JSON.stringify([]));
+    window.open("home.html","_self");
+});
+div.appendChild(a);
+
 document.getElementById('row').appendChild(div)
 
-}
+if (sessionStorage.getItem('activeuser')){
+    var isactive= JSON.parse(sessionStorage.getItem('activeuser'));
+    if(isactive=="True"){
 
-//Subtotal (2 items):
+document.querySelector('.new-confirm').addEventListener('click', function() {
+    new Confirm({
+        title: 'Checkout',
+        content: "<h2>Total (<span class='items-number'>"+CartItems.length+" items</span>): $"+TotalPrice+"</h2><br><h4>Ship To : "+JSON.parse(sessionStorage.getItem('username'))+"</h4>",
+        useInnerHTML: true
+    });
+    document.querySelector('.cancel').addEventListener('click', function() {
+        sessionStorage.setItem('cart', JSON.stringify([]));
+        window.open("home.html","_self")
+    });
+
+
+});
+
+}else{
+    document.querySelector('.new-confirm').addEventListener('click', function() {
+        window.open("Login Form.html","_self");
+    })
+}
+}
+else{
+    document.querySelector('.new-confirm').addEventListener('click', function() {
+        window.open("Login Form.html","_self");
+    })
+}
+//Empty Cart
