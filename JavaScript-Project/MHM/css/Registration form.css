@@ -34,8 +34,8 @@ body {
 }
 
 .psw,
-.first_name,
-.last_name,
+.user_name,
+.your_name,
 .email,
 .bith_of_date
 {
@@ -44,8 +44,8 @@ body {
     margin-top: 20px;
 }
 
-.last_name input,.email input,.psw input,
-.bith_of_date input,.first_name input
+.your_name input,.email input,.psw input,
+.bith_of_date input,.user_name input
 {
     height: 100%;
     width: 100%;
