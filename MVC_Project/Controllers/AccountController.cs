@@ -64,6 +64,7 @@ namespace Final_Project.Controllers
                 customer.UserName = userVM.UserName;
                 customer.Address = userVM.Address;
                 customer.PasswordHash = userVM.Password;
+                customer.PhoneNumber = userVM.PhoneNumber;
                 customer.Email = userVM.Email;
                 
 
@@ -91,6 +92,11 @@ namespace Final_Project.Controllers
             return RedirectToAction("Login");
         }
 
+        public async Task<IActionResult> AdminLogout()
+        {
+            await signInManager.SignOutAsync();
+            return RedirectToAction("Login","AdminDomain");
+        }
 
 
     }

@@ -52,13 +52,10 @@
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class=""> </span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent" style="width:100%">
-               <ul class="navbar-nav" style="margin-right:80%" >
+            <div class="collapse navbar-collapse " id="navbarSupportedContent" style="width:100%">
+               <ul class="navbar-nav row" style="width:100%"  >
                 @if(@User.Identity.IsAuthenticated==true){
-                    <li  style="margin-right:5%" class="nav-item"><a >Welcome @User.Identity.Name </a></li>
-                    <li class="nav-item">
-                         <a asp-action="Logout"asp-controller="Account">Logout</a>
-                    </li>
+                    <li   class="nav-item text-end"><a >Welcome <b class="font-black" style="color:#1F2937">@User.Identity.Name</b> </a></li>
                 }
               </ul>
             </div>
@@ -66,7 +63,7 @@
 <aside class="aside is-placed-left is-expanded">
   <div class="aside-tools">
     <div>
-      Admin <b class="font-black">One</b>
+       <b class="font-black">Admin</b>
     </div>
   </div>
   <div class="menu is-menu-main">
@@ -100,8 +97,8 @@
         </a>
       </li>
       <li>
-        <a asp-action="Logout" asp-controller="Account">
-          <span class="icon"><i class="mdi mdi-lock"></i></span>
+        <a asp-action="AdminLogout" asp-controller="Account">
+          <span class="icon"><i class="mdi mdi-logout"></i></span>
           <span class="menu-item-label">Logout</span>
         </a>
       </li>

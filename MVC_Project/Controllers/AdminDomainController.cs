@@ -59,7 +59,8 @@ namespace Final_Project.Controllers
         [Authorize(Roles = "Admin")]
         public IActionResult Index()
         {
-
+            ViewBag.Clients=customerRepository.GetAll().Count();
+            ViewBag.Sales=orderRepository.GetAll().Select(o => o.Total_Price).Sum();
             return View();
         }
 

@@ -10554,11 +10554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\Final-Project.csproj",
+      "projectUniqueName": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\Final-Project.csproj",
       "projectName": "Final-Project",
-      "projectPath": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\Final-Project.csproj",
+      "projectPath": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\Final-Project.csproj",
       "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\obj\\",
+      "outputPath": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",

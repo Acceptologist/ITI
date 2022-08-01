@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AxHqSJU/xrUyJe8hchGOANQTV6zwVpDTYBRTeR6oYeo=",
+  "Hash": "yO89qZLvXcrgsLBp3F6cVDG7GZxpa4liQxlmfu2H6RU=",
   "Source": "Final-Project",
   "BasePath": "_content/Final-Project",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Final-Project\\wwwroot",
       "Source": "Final-Project",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Final-Project.styles.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Final-Project.styles.css",
       "SourceId": "Final-Project",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Final-Project.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Final-Project.styles.css"
+      "OriginalItemSpec": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Final-Project.styles.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Final-Project.bundle.scp.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Final-Project.bundle.scp.css",
       "SourceId": "Final-Project",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Final-Project.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Final-Project.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Final-Project.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\css\\attention.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\css\\attention.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "css/attention.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\attention.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\css\\bootstrap.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\css\\cart.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\css\\cart.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "css/cart.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\cart.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\css\\home.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\css\\home.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "css/home.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\css\\Login Form.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\css\\Login Form.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "css/Login Form.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Login Form.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\css\\main.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\css\\main.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\css\\Registration form.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\css\\Registration form.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "css/Registration form.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Registration form.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\css\\responsive.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\css\\site.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\css\\style.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\css\\style.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\css\\style.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "css/style.css.map",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\css\\style.scss",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\css\\style.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "css/style.scss",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\favicon.ico",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -340,10 +340,27 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\0264e65b-cd07-46a2-8198-bece080ebbf7_9088.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\011dcdbf-322f-4eac-bb65-b5c25cdf3b69..jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Final-Project",
+      "RelativePath": "Images/011dcdbf-322f-4eac-bb65-b5c25cdf3b69..jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\011dcdbf-322f-4eac-bb65-b5c25cdf3b69..jpg"
+    },
+    {
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\0264e65b-cd07-46a2-8198-bece080ebbf7_9088.png",
+      "SourceId": "Final-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/0264e65b-cd07-46a2-8198-bece080ebbf7_9088.png",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\0264e65b-cd07-46a2-8198-bece080ebbf7_9088.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\03ac00ff-fe0c-4838-b054-07c0495168df..png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\03ac00ff-fe0c-4838-b054-07c0495168df..png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/03ac00ff-fe0c-4838-b054-07c0495168df..png",
       "AssetKind": "All",
@@ -374,10 +391,27 @@
       "OriginalItemSpec": "wwwroot\\Images\\03ac00ff-fe0c-4838-b054-07c0495168df..png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\111.jpg",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\0f01c455-91c1-424d-9514-63f220d74fa1..jpeg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Final-Project",
+      "RelativePath": "Images/0f01c455-91c1-424d-9514-63f220d74fa1..jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\0f01c455-91c1-424d-9514-63f220d74fa1..jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\111.jpg",
+      "SourceId": "Final-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/111.jpg",
       "AssetKind": "All",
@@ -391,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\111.jpg"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\117cdf50-4b50-4893-a737-faddd43fd8a3_9088.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\117cdf50-4b50-4893-a737-faddd43fd8a3_9088.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/117cdf50-4b50-4893-a737-faddd43fd8a3_9088.png",
       "AssetKind": "All",
@@ -408,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\117cdf50-4b50-4893-a737-faddd43fd8a3_9088.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\1235.PNG",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\1235.PNG",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/1235.PNG",
       "AssetKind": "All",
@@ -425,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\1235.PNG"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\1294b78b-f0e4-40ff-815b-25f63a29ec7c_9088.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\1294b78b-f0e4-40ff-815b-25f63a29ec7c_9088.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/1294b78b-f0e4-40ff-815b-25f63a29ec7c_9088.png",
       "AssetKind": "All",
@@ -442,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\1294b78b-f0e4-40ff-815b-25f63a29ec7c_9088.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\17536f80-60b8-4896-b931-5986ce963501_Tibet_landscape.jpg",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\17536f80-60b8-4896-b931-5986ce963501_Tibet_landscape.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/17536f80-60b8-4896-b931-5986ce963501_Tibet_landscape.jpg",
       "AssetKind": "All",
@@ -459,10 +493,27 @@
       "OriginalItemSpec": "wwwroot\\Images\\17536f80-60b8-4896-b931-5986ce963501_Tibet_landscape.jpg"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\1cdc16b7-f4bd-4fbe-bfac-4c01eefb753d_bbb.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\18b08245-336a-4ab2-8b14-b7024bc27359..jfif",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Final-Project",
+      "RelativePath": "Images/18b08245-336a-4ab2-8b14-b7024bc27359..jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\18b08245-336a-4ab2-8b14-b7024bc27359..jfif"
+    },
+    {
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\1cdc16b7-f4bd-4fbe-bfac-4c01eefb753d_bbb.png",
+      "SourceId": "Final-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/1cdc16b7-f4bd-4fbe-bfac-4c01eefb753d_bbb.png",
       "AssetKind": "All",
@@ -476,10 +527,27 @@
       "OriginalItemSpec": "wwwroot\\Images\\1cdc16b7-f4bd-4fbe-bfac-4c01eefb753d_bbb.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\239f1ba5-6e93-4290-ac43-713d5134e803_9088.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\1f39d3ce-3b6f-49d2-b308-f484d03e569e..jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Final-Project",
+      "RelativePath": "Images/1f39d3ce-3b6f-49d2-b308-f484d03e569e..jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\1f39d3ce-3b6f-49d2-b308-f484d03e569e..jpg"
+    },
+    {
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\239f1ba5-6e93-4290-ac43-713d5134e803_9088.png",
+      "SourceId": "Final-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/239f1ba5-6e93-4290-ac43-713d5134e803_9088.png",
       "AssetKind": "All",
@@ -493,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\239f1ba5-6e93-4290-ac43-713d5134e803_9088.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\25a24d20-00df-4556-8480-1c9a3c1032bd_1235.PNG",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\25a24d20-00df-4556-8480-1c9a3c1032bd_1235.PNG",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/25a24d20-00df-4556-8480-1c9a3c1032bd_1235.PNG",
       "AssetKind": "All",
@@ -510,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\25a24d20-00df-4556-8480-1c9a3c1032bd_1235.PNG"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\36d45f34-e917-45dc-84d1-b567102a6d98_d0ba7a0f-dcb7-46da-8813-368240614bfb_p1.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\36d45f34-e917-45dc-84d1-b567102a6d98_d0ba7a0f-dcb7-46da-8813-368240614bfb_p1.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/36d45f34-e917-45dc-84d1-b567102a6d98_d0ba7a0f-dcb7-46da-8813-368240614bfb_p1.png",
       "AssetKind": "All",
@@ -527,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\36d45f34-e917-45dc-84d1-b567102a6d98_d0ba7a0f-dcb7-46da-8813-368240614bfb_p1.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\3f18df24-c751-4983-a8b8-9e89f57df8a6_KIC_324-2288-1080-510_prod1.webp",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\3f18df24-c751-4983-a8b8-9e89f57df8a6_KIC_324-2288-1080-510_prod1.webp",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/3f18df24-c751-4983-a8b8-9e89f57df8a6_KIC_324-2288-1080-510_prod1.webp",
       "AssetKind": "All",
@@ -544,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\3f18df24-c751-4983-a8b8-9e89f57df8a6_KIC_324-2288-1080-510_prod1.webp"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\40e66e82-f450-4218-b5ec-0bc98599cf96_1235.PNG",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\40e66e82-f450-4218-b5ec-0bc98599cf96_1235.PNG",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/40e66e82-f450-4218-b5ec-0bc98599cf96_1235.PNG",
       "AssetKind": "All",
@@ -561,10 +629,61 @@
       "OriginalItemSpec": "wwwroot\\Images\\40e66e82-f450-4218-b5ec-0bc98599cf96_1235.PNG"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\5e586fe4-45a3-44f1-8591-f8532acb899f_p2.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\432f0152-9ff8-490c-b544-c465d7daa80b..webp",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Final-Project",
+      "RelativePath": "Images/432f0152-9ff8-490c-b544-c465d7daa80b..webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\432f0152-9ff8-490c-b544-c465d7daa80b..webp"
+    },
+    {
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\47c74d28-5435-4413-8eca-bda64ebe4a20..webp",
+      "SourceId": "Final-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Final-Project",
+      "RelativePath": "Images/47c74d28-5435-4413-8eca-bda64ebe4a20..webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\47c74d28-5435-4413-8eca-bda64ebe4a20..webp"
+    },
+    {
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\5d600f81-925e-4aa8-b169-2cfafc571106..webp",
+      "SourceId": "Final-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Final-Project",
+      "RelativePath": "Images/5d600f81-925e-4aa8-b169-2cfafc571106..webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\5d600f81-925e-4aa8-b169-2cfafc571106..webp"
+    },
+    {
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\5e586fe4-45a3-44f1-8591-f8532acb899f_p2.png",
+      "SourceId": "Final-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/5e586fe4-45a3-44f1-8591-f8532acb899f_p2.png",
       "AssetKind": "All",
@@ -578,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\5e586fe4-45a3-44f1-8591-f8532acb899f_p2.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\603bbcb7-56a1-4ed9-b0d7-e27c6debe615_1235.PNG",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\603bbcb7-56a1-4ed9-b0d7-e27c6debe615_1235.PNG",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/603bbcb7-56a1-4ed9-b0d7-e27c6debe615_1235.PNG",
       "AssetKind": "All",
@@ -595,10 +714,27 @@
       "OriginalItemSpec": "wwwroot\\Images\\603bbcb7-56a1-4ed9-b0d7-e27c6debe615_1235.PNG"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\765d2715-b85d-4960-b28b-5194cc06f817_9088.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\63d72caa-63c0-49a7-8191-ea368c45a28b..jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Final-Project",
+      "RelativePath": "Images/63d72caa-63c0-49a7-8191-ea368c45a28b..jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\63d72caa-63c0-49a7-8191-ea368c45a28b..jpg"
+    },
+    {
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\765d2715-b85d-4960-b28b-5194cc06f817_9088.png",
+      "SourceId": "Final-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/765d2715-b85d-4960-b28b-5194cc06f817_9088.png",
       "AssetKind": "All",
@@ -612,10 +748,61 @@
       "OriginalItemSpec": "wwwroot\\Images\\765d2715-b85d-4960-b28b-5194cc06f817_9088.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\9d7c0dda-0e71-480e-9c65-36e7c7487a1f_p2.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\7d149ae0-219e-461b-9095-d2590e96f7bd..png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Final-Project",
+      "RelativePath": "Images/7d149ae0-219e-461b-9095-d2590e96f7bd..png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\7d149ae0-219e-461b-9095-d2590e96f7bd..png"
+    },
+    {
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\8039a605-bb0d-4e00-a365-f22e871de722..jfif",
+      "SourceId": "Final-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Final-Project",
+      "RelativePath": "Images/8039a605-bb0d-4e00-a365-f22e871de722..jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\8039a605-bb0d-4e00-a365-f22e871de722..jfif"
+    },
+    {
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\91e022ac-9509-4861-90fc-563c440748a2..jpg",
+      "SourceId": "Final-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Final-Project",
+      "RelativePath": "Images/91e022ac-9509-4861-90fc-563c440748a2..jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\91e022ac-9509-4861-90fc-563c440748a2..jpg"
+    },
+    {
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\9d7c0dda-0e71-480e-9c65-36e7c7487a1f_p2.png",
+      "SourceId": "Final-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/9d7c0dda-0e71-480e-9c65-36e7c7487a1f_p2.png",
       "AssetKind": "All",
@@ -629,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\9d7c0dda-0e71-480e-9c65-36e7c7487a1f_p2.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\9e566d0c-282d-4bd3-9642-6b8fbef260f6_5e586fe4-45a3-44f1-8591-f8532acb899f_p2.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\9e566d0c-282d-4bd3-9642-6b8fbef260f6_5e586fe4-45a3-44f1-8591-f8532acb899f_p2.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/9e566d0c-282d-4bd3-9642-6b8fbef260f6_5e586fe4-45a3-44f1-8591-f8532acb899f_p2.png",
       "AssetKind": "All",
@@ -646,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\9e566d0c-282d-4bd3-9642-6b8fbef260f6_5e586fe4-45a3-44f1-8591-f8532acb899f_p2.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\aa.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\aa.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/aa.png",
       "AssetKind": "All",
@@ -663,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\aa.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\arrival-bg.jpg",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\arrival-bg.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/arrival-bg.jpg",
       "AssetKind": "All",
@@ -680,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\arrival-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\arrival-bg.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\arrival-bg.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/arrival-bg.png",
       "AssetKind": "All",
@@ -697,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\arrival-bg.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\b1b669e6-2b5b-42bc-a406-af3a7f9669ce_9088.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\b1b669e6-2b5b-42bc-a406-af3a7f9669ce_9088.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/b1b669e6-2b5b-42bc-a406-af3a7f9669ce_9088.png",
       "AssetKind": "All",
@@ -714,10 +901,27 @@
       "OriginalItemSpec": "wwwroot\\Images\\b1b669e6-2b5b-42bc-a406-af3a7f9669ce_9088.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\background.webp",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\b97ff7a6-4a9e-46ee-98f1-5a25be5b5a2a..png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Final-Project",
+      "RelativePath": "Images/b97ff7a6-4a9e-46ee-98f1-5a25be5b5a2a..png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\b97ff7a6-4a9e-46ee-98f1-5a25be5b5a2a..png"
+    },
+    {
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\background.webp",
+      "SourceId": "Final-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/background.webp",
       "AssetKind": "All",
@@ -731,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\background.webp"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\bbb.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\bbb.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/bbb.png",
       "AssetKind": "All",
@@ -748,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bbb.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\bf1df4bd-81f7-48e9-be81-7b161c895e46_9088.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\bf1df4bd-81f7-48e9-be81-7b161c895e46_9088.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/bf1df4bd-81f7-48e9-be81-7b161c895e46_9088.png",
       "AssetKind": "All",
@@ -765,10 +969,27 @@
       "OriginalItemSpec": "wwwroot\\Images\\bf1df4bd-81f7-48e9-be81-7b161c895e46_9088.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\c7c35c05-ce54-458d-b328-ab1ec1cc962b_9088.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\c3590f9c-cd92-456f-ae4e-abbaf3b3a254..webp",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
+      "BasePath": "_content/Final-Project",
+      "RelativePath": "Images/c3590f9c-cd92-456f-ae4e-abbaf3b3a254..webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\c3590f9c-cd92-456f-ae4e-abbaf3b3a254..webp"
+    },
+    {
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\c7c35c05-ce54-458d-b328-ab1ec1cc962b_9088.png",
+      "SourceId": "Final-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/c7c35c05-ce54-458d-b328-ab1ec1cc962b_9088.png",
       "AssetKind": "All",
@@ -782,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\c7c35c05-ce54-458d-b328-ab1ec1cc962b_9088.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\client.jpg",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\client.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/client.jpg",
       "AssetKind": "All",
@@ -799,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\client.jpg"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\client2.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\client2.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/client2.png",
       "AssetKind": "All",
@@ -816,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\client2.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\client3.jpg",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\client3.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/client3.jpg",
       "AssetKind": "All",
@@ -833,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\client3.jpg"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\d0ba7a0f-dcb7-46da-8813-368240614bfb_p1.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\d0ba7a0f-dcb7-46da-8813-368240614bfb_p1.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/d0ba7a0f-dcb7-46da-8813-368240614bfb_p1.png",
       "AssetKind": "All",
@@ -850,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\d0ba7a0f-dcb7-46da-8813-368240614bfb_p1.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\d6c89986-4d44-45eb-a689-1e27a27ecef1_9088.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\d6c89986-4d44-45eb-a689-1e27a27ecef1_9088.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/d6c89986-4d44-45eb-a689-1e27a27ecef1_9088.png",
       "AssetKind": "All",
@@ -867,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\d6c89986-4d44-45eb-a689-1e27a27ecef1_9088.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\e639e54e-2cbf-4987-98f5-a8f49dafaf28_KIC_324-2288-1080-510_prod1.webp",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\e639e54e-2cbf-4987-98f5-a8f49dafaf28_KIC_324-2288-1080-510_prod1.webp",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/e639e54e-2cbf-4987-98f5-a8f49dafaf28_KIC_324-2288-1080-510_prod1.webp",
       "AssetKind": "All",
@@ -884,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\e639e54e-2cbf-4987-98f5-a8f49dafaf28_KIC_324-2288-1080-510_prod1.webp"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\ebae6dbd-30f2-4834-a00d-01214a863b5a_40e66e82-f450-4218-b5ec-0bc98599cf96_1235.PNG",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\ebae6dbd-30f2-4834-a00d-01214a863b5a_40e66e82-f450-4218-b5ec-0bc98599cf96_1235.PNG",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/ebae6dbd-30f2-4834-a00d-01214a863b5a_40e66e82-f450-4218-b5ec-0bc98599cf96_1235.PNG",
       "AssetKind": "All",
@@ -901,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ebae6dbd-30f2-4834-a00d-01214a863b5a_40e66e82-f450-4218-b5ec-0bc98599cf96_1235.PNG"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\emptycart.svg",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\emptycart.svg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/emptycart.svg",
       "AssetKind": "All",
@@ -918,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\emptycart.svg"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\f0e88a85-4c9d-4a4e-beed-7b58e1f04113_9088.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\f0e88a85-4c9d-4a4e-beed-7b58e1f04113_9088.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/f0e88a85-4c9d-4a4e-beed-7b58e1f04113_9088.png",
       "AssetKind": "All",
@@ -935,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f0e88a85-4c9d-4a4e-beed-7b58e1f04113_9088.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\f4a8f167-c500-40f5-adcc-a00ccc5a507e_p2.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\f4a8f167-c500-40f5-adcc-a00ccc5a507e_p2.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/f4a8f167-c500-40f5-adcc-a00ccc5a507e_p2.png",
       "AssetKind": "All",
@@ -952,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f4a8f167-c500-40f5-adcc-a00ccc5a507e_p2.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\favicon.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\favicon.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/favicon.png",
       "AssetKind": "All",
@@ -969,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\logo.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\logo.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/logo.png",
       "AssetKind": "All",
@@ -986,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\logo2.png",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\logo2.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/logo2.png",
       "AssetKind": "All",
@@ -1003,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logo2.png"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\slider-bg.jpg",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\slider-bg.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/slider-bg.jpg",
       "AssetKind": "All",
@@ -1020,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\slider-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\Images\\User.jpeg",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\Images\\User.jpeg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "Images/User.jpeg",
       "AssetKind": "All",
@@ -1037,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\User.jpeg"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\js\\bootstrap.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -1054,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\js\\cart.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\js\\cart.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "js/cart.js",
       "AssetKind": "All",
@@ -1071,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\js\\cart.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\js\\custom.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -1088,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\js\\is.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\js\\is.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "js/is.js",
       "AssetKind": "All",
@@ -1105,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\js\\is.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\js\\jquery-3.4.1.min.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "js/jquery-3.4.1.min.js",
       "AssetKind": "All",
@@ -1122,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.4.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\js\\login.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\js\\login.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "js/login.js",
       "AssetKind": "All",
@@ -1139,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\js\\popper.min.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\js\\popper.min.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "js/popper.min.js",
       "AssetKind": "All",
@@ -1156,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\js\\product.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\js\\product.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "js/product.js",
       "AssetKind": "All",
@@ -1173,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\js\\Registation form.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\js\\Registation form.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "js/Registation form.js",
       "AssetKind": "All",
@@ -1190,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Registation form.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\js\\site.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1207,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1224,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1241,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1258,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1292,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1309,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1326,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1343,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1360,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1377,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1394,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1428,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1445,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1462,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1496,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1513,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1530,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1564,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1581,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1598,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1632,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1649,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1666,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1700,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1717,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1734,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1768,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1785,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1802,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1819,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1836,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1853,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1870,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1887,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1904,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1921,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1938,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1955,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1972,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1989,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2006,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2023,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2040,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2057,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2074,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2091,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2108,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2125,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2142,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2159,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\OneDrive\\Documents\\MVC\\MVC-Project\\MVC-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

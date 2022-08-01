@@ -27,13 +27,23 @@
                                 @item.Name
                             </h5>
                             <h6 id="price1">
-                                @item.Price
+                               $ @item.Price
                             </h6>
                         </div>
                         <div class="img-box">
                             <img  id="img1"src="images/@item.Image" alt="">
                         </div>
+                @*        <div class="option_container">
+                            <div class="options">
+        
+                             <a class="option1" value="1" onclick="addProductToCart(@item.Id)">
+                               <i class="fa fa-trash" style="color:#c82333;" aria-hidden="true"></i>
 
+                                 </a>
+     
+                            </div>
+                          
+                        </div>*@
                     </div>
 
 
@@ -80,7 +90,7 @@ else
                   <div class="btn-box">
                     
                       <a asp-action="Index" asp-Controller="Product">
-                        Shopping Now
+                        Shop Now
                      </a>
                     
                   </div>
